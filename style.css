@@ -1,0 +1,72 @@
+body {
+  overflow-y: scroll;
+  font-family: Helvetica, sans-serif;
+  background: #fff; }
+
+h2 {
+  text-align: center;
+  font-family: Verdana;
+  font-size: 28px;
+  margin: 10px auto;
+  color: #666; }
+
+.input {
+  box-sizing: border-box;
+  margin: 0 auto;
+  border: 2px solid #44d;
+  width: 960px;
+  height: 300px;
+  font-size: 14px;
+  overflow-y: scroll;
+  display: block;
+  outline: none; }
+
+.outputLabel {
+  box-sizing: border-box;
+  background: #44d;
+  height: 30px;
+  margin: 0 auto;
+  padding-top: 2px;
+  padding-left: 15px;
+  width: 960px;
+  color: white;
+  font-family: Verdana;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background: #44d;
+  border-left: 2px solid #44d;
+  border-right: 2px solid #44d; }
+
+.inputLabel {
+  box-sizing: border-box;
+  background: #44d;
+  height: 30px;
+  margin: 0 auto;
+  padding-top: 4px;
+  padding-left: 15px;
+  width: 960px;
+  color: white;
+  font-family: Verdana;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background: #44d;
+  border-left: 2px solid #44d;
+  border-right: 2px solid #44d;
+  border-top-right-radius: 14px;
+  border-top-left-radius: 14px; }
+
+.output {
+  box-sizing: border-box;
+  background: #fff;
+  margin: 0 auto;
+  width: 960px;
+  min-height: 800px;
+  border-left: 2px solid #44d;
+  border-right: 2px solid #44d;
+  overflow-y: scroll;
+  display: block;
+  outline: none; }
+
+/*# sourceMappingURL=style.css.map */
